@@ -9,7 +9,13 @@ Being self-taught with a reverse-engineering mindset, I’m able to quickly lear
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+
+#### 🏗️ Frameworks:
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+
 
 #### 🧰 Tools:
 
@@ -22,10 +28,9 @@ Being self-taught with a reverse-engineering mindset, I’m able to quickly lear
 ![Illustrator](https://img.shields.io/badge/-Illustrator-000000?style=flat&logo=adobe-illustrator)
 ![Blender](https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender)
 
-#### 🥞 Stack:
+#### 🥞 Pipeline:
 
 ![ESLint](https://img.shields.io/badge/-ESLint-000000?style=flat&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=prettier)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
